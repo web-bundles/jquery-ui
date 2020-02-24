@@ -7,15 +7,15 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.beangle.bundles</groupId>
-  <artifactId>beangle-bundles-jquery-ui</artifactId>
+  <artifactId>beangle-bundles-struts2-jquery</artifactId>
   <version>1.10.4</version>
   <packaging>jar</packaging>
   <name>Beangle Bundles JQuery UI</name>
 
   <properties>
-    <bundle.symbolicName>org.beangle.bundles.jquery-ui</bundle.symbolicName>
-    <bundle.namespace>org.beangle.bundles.jquery-ui</bundle.namespace>
-	<bundle.code>jquery-ui</bundle.code>
+    <bundle.symbolicName>org.beangle.bundles.struts2-jquery</bundle.symbolicName>
+    <bundle.namespace>org.beangle.bundles.struts2-jquery</bundle.namespace>
+    <bundle.code>struts2-jquery</bundle.code>
   </properties>
 
 </project>
